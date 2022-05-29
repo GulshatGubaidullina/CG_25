@@ -1,6 +1,9 @@
 //------- Ignore this ----------
-#include<filesystem>
-namespace fs = std::filesystem;
+#include <iostream>
+#include <filesystem>
+
+using namespace std;
+namespace fs = filesystem;
 //------------------------------
 
 #include"Model.h"
